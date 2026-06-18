@@ -22,15 +22,9 @@ This repository is designed as a learning and research lab. Each notebook focuse
 * DAPO
 * GSPO
 * CISPO
-* OPD
-* Truncated importance sampling
-* ICE-POP
-* OPSD
-* LLM post-training objectives
-* Reward modeling and preference optimization
-* KL penalties and clipped objectives
-* Advantage normalization
-* On-policy and off-policy optimization
+* On Policy Distillation (Truncated Importance Sampling)
+* On Policy Distillation (ICE-POP)
+* On Policy Self Distillation
 
 ## Purpose
 
