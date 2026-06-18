@@ -20,6 +20,7 @@ This repository is designed as a learning and research lab. Each notebook focuse
 * Group Relative Policy Optimization
 * Dr. GRPO
 * DAPO
+* GSPO
 * CISPO
 * OPD
 * Truncated importance sampling
@@ -33,7 +34,7 @@ This repository is designed as a learning and research lab. Each notebook focuse
 
 ## Purpose
 
-Modern LLM post-training is increasingly built around reinforcement learning and policy optimization. Algorithms such as PPO, GRPO, Dr. GRPO, and DAPO build on core RL ideas but adapt them for language models, preference data, verifiable rewards, and long-form reasoning.
+Modern LLM post-training is increasingly built around reinforcement learning and policy optimization. Algorithms such as PPO, GRPO, Dr. GRPO, DAPO and GSPO build on core RL ideas but adapt them for language models, preference data, verifiable rewards, and long-form reasoning.
 
 This repository breaks those methods into focused notebooks so each algorithm can be understood independently and compared against related approaches.
 
